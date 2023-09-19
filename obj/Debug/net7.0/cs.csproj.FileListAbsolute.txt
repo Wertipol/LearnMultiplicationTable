@@ -27,3 +27,17 @@ D:\file\cs\obj\Debug\net7.0\refint\cs.dll
 D:\file\cs\obj\Debug\net7.0\cs.pdb
 D:\file\cs\obj\Debug\net7.0\cs.genruntimeconfig.cache
 D:\file\cs\obj\Debug\net7.0\ref\cs.dll
+D:\programming\file\abudabi\LearnMultiplicationTable\bin\Debug\net7.0\cs.exe
+D:\programming\file\abudabi\LearnMultiplicationTable\bin\Debug\net7.0\cs.deps.json
+D:\programming\file\abudabi\LearnMultiplicationTable\bin\Debug\net7.0\cs.runtimeconfig.json
+D:\programming\file\abudabi\LearnMultiplicationTable\bin\Debug\net7.0\cs.dll
+D:\programming\file\abudabi\LearnMultiplicationTable\bin\Debug\net7.0\cs.pdb
+D:\programming\file\abudabi\LearnMultiplicationTable\obj\Debug\net7.0\cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\file\abudabi\LearnMultiplicationTable\obj\Debug\net7.0\cs.AssemblyInfoInputs.cache
+D:\programming\file\abudabi\LearnMultiplicationTable\obj\Debug\net7.0\cs.AssemblyInfo.cs
+D:\programming\file\abudabi\LearnMultiplicationTable\obj\Debug\net7.0\cs.csproj.CoreCompileInputs.cache
+D:\programming\file\abudabi\LearnMultiplicationTable\obj\Debug\net7.0\cs.dll
+D:\programming\file\abudabi\LearnMultiplicationTable\obj\Debug\net7.0\refint\cs.dll
+D:\programming\file\abudabi\LearnMultiplicationTable\obj\Debug\net7.0\cs.pdb
+D:\programming\file\abudabi\LearnMultiplicationTable\obj\Debug\net7.0\cs.genruntimeconfig.cache
+D:\programming\file\abudabi\LearnMultiplicationTable\obj\Debug\net7.0\ref\cs.dll

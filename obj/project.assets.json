@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\file\\cs\\cs.csproj",
+      "projectUniqueName": "D:\\programming\\file\\abudabi\\LearnMultiplicationTable\\cs.csproj",
       "projectName": "cs",
-      "projectPath": "D:\\file\\cs\\cs.csproj",
+      "projectPath": "D:\\programming\\file\\abudabi\\LearnMultiplicationTable\\cs.csproj",
       "packagesPath": "C:\\Users\\barsu\\.nuget\\packages\\",
-      "outputPath": "D:\\file\\cs\\obj\\",
+      "outputPath": "D:\\programming\\file\\abudabi\\LearnMultiplicationTable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\barsu\\AppData\\Roaming\\NuGet\\NuGet.Config",
