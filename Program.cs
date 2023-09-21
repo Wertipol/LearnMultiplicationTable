@@ -28,6 +28,7 @@ namespace cs
                             Console.WriteLine();
                         }
                         Console.ReadLine();
+                        Console.Clear();
                     }
 
                     else if (action == 2)
@@ -38,16 +39,18 @@ namespace cs
                         {
                             learning = learn();
                         }
+                        Console.Clear();
                     }
                     else if (action == 0)
                     {
+                        Console.Clear();
                         return;
                     }
                     else if (action < 2) { }
                 }
-                catch (Exception ex)
+                catch
                 {
-                    Console.WriteLine(ex.Message);
+                    Console.Clear();
                 }
             }
 
